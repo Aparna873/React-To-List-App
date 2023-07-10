@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-To-List-App/static/css/main.cd8a9bb1.css",
+    "main.js": "/React-To-List-App/static/js/main.99ab7341.js",
+    "index.html": "/React-To-List-App/index.html",
+    "main.cd8a9bb1.css.map": "/React-To-List-App/static/css/main.cd8a9bb1.css.map",
+    "main.99ab7341.js.map": "/React-To-List-App/static/js/main.99ab7341.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd8a9bb1.css",
+    "static/js/main.99ab7341.js"
+  ]
+}
